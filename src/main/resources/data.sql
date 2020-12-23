@@ -1,0 +1,5 @@
+insert into item(id, name, price, quantity)values('1001','item1',10,100)
+insert into item(id, name, price, quantity)values('1002','item1',20,100)
+insert into item(id, name, price, quantity)values('1003','item1',30,100)
+insert into item(id, name, price, quantity)values('1004','item1',40,100)
+insert into item(id, name, price, quantity)values('1005','item1',50,100)
